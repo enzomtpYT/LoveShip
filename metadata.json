@@ -1,0 +1,5 @@
+{
+  "name": "LoveShip",
+  "description": "A relationship compatibility calculator powered by Gemini AI. Users take a psychological quiz, share a secure link with their partner, and receive an AI-generated compatibility forecast.",
+  "requestFramePermissions": []
+}
