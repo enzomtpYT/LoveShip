@@ -271,7 +271,7 @@ ${getResultLink()}`;
             <div className="py-6">
               <h2 className="text-3xl font-bold text-slate-800 mb-4">Are you compatible?</h2>
               <p className="text-slate-600 text-lg mb-8 max-w-md mx-auto">
-                Take the 5-question psychological survey, invite your partner, and let our AI predict your romantic future.
+                Take the 10-question psychological survey, invite your partner, and let our AI predict your romantic future.
               </p>
               <Button onClick={handleStartQuizA} icon="arrow-right" className="text-lg px-8 py-4">
                 Start New Ship

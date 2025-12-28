@@ -51,6 +51,56 @@ export const QUESTIONS: Question[] = [
       { value: "social", label: "Hosting a dinner party", emoji: "🍷" },
       { value: "productive", label: "Getting chores and errands done", emoji: "✅" },
     ]
+  },
+  {
+    id: 6,
+    text: "How do you approach managing finances?",
+    options: [
+      { value: "save", label: "Saving for the future is priority #1", emoji: "💰" },
+      { value: "balance", label: "Balance enjoyment now with saving", emoji: "⚖️" },
+      { value: "experience", label: "Money is for experiences, spend it!", emoji: "💸" },
+      { value: "invest", label: "Aggressive investing for growth", emoji: "📈" },
+    ]
+  },
+  {
+    id: 7,
+    text: "In a large social gathering, you usually...",
+    options: [
+      { value: "center", label: "Am the life of the party", emoji: "🌟" },
+      { value: "observer", label: "Prefer people-watching", emoji: "🔭" },
+      { value: "connector", label: "Stick with my close group", emoji: "🔗" },
+      { value: "mingler", label: "Float around meeting everyone", emoji: "🦋" },
+    ]
+  },
+  {
+    id: 8,
+    text: "When making a big decision, you rely mostly on...",
+    options: [
+      { value: "gut", label: "My gut feeling / intuition", emoji: "🔮" },
+      { value: "logic", label: "Pros and cons list / data", emoji: "📊" },
+      { value: "advice", label: "Asking friends and family", emoji: "🗣️" },
+      { value: "prayer", label: "Meditation or spiritual guidance", emoji: "🧘" },
+    ]
+  },
+  {
+    id: 9,
+    text: "What is your preferred vacation style?",
+    options: [
+      { value: "relax", label: "All-inclusive resort & beach", emoji: "🏖️" },
+      { value: "explore", label: "Cultural deep-dive & museums", emoji: "🏛️" },
+      { value: "adventure", label: "Adrenaline & nature", emoji: "🏔️" },
+      { value: "foodie", label: "It's all about the local cuisine", emoji: "🍜" },
+    ]
+  },
+  {
+    id: 10,
+    text: "When you're upset, what do you need most?",
+    options: [
+      { value: "listen", label: "Just someone to listen, no fixing", emoji: "👂" },
+      { value: "advice", label: "Practical solutions to the problem", emoji: "💡" },
+      { value: "distract", label: "Distraction and fun activity", emoji: "🎮" },
+      { value: "hugs", label: "Physical comfort and holding", emoji: "🫂" },
+    ]
   }
 ];
 
